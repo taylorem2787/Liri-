@@ -18,10 +18,7 @@ var searchInfo = process.argv[3];
 var ranFile = "random.txt";
 var logFile = "log.text";
 
-//=================FUNCTIONS=================================
-
-//MAIN SEARCH FUNCTION=======================================
-//main function w/ parameters for all arguments
+//SWITCH CASE
 switch(userSearch) {
 	case "my-tweets":
 		twitSeearch();
@@ -38,9 +35,9 @@ switch(userSearch) {
 	case "do-what-it-says":
 		saysSearch();
 	break;
-
 } //END SWITCH
 
+//=================FUNCTIONS=================================
 //TWITTER FUNCTION============================================
 function twitSeearch(){
 	//define parameter with {screen name, tweet count}
