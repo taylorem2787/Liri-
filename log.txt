@@ -1,0 +1,56 @@
+NaN[object Object]NaNMy Tweets: [object Object]{"Artist:":"Afta-1","Song:":"Flyerthanshe","Album:":"Undefined"}{"Artist:":"Afta-1","Song:":"Flyerthanshe","Album:":"Undefined"}{"Artist:":"Afta-1","Song:":"Flyerthanshe","Album:":"Undefined"}{"Artist:":"Afta-1","Song:":"Flyerthanshe","Album:":"Undefined"}{"Artist:":"Afta-1","Song:":"Flyerthanshe","Album:":"Undefined"}{"Artist:":"Afta-1","Song:":"Flyerthanshe","Album:":"Undefined"}{"Artist:":"Afta-1","Song:":"Flyerthanshe","Album:":"Undefined"}NaNMy Tweets: [object Object]{"Artist:":"AWOLNATION","Song:":"Sail","Album:":"Megalithic Symphony Deluxe"}
+----------------
+{"Artist:":"AWOLNATION","Song:":"Sail","Album:":"Megalithic Symphony Deluxe"}
+----------------
+{"Artist:":"AWOLNATION","Song:":"Sail","Album:":"Megalithic Symphony Deluxe"}
+----------------
+{"Artist:":"AWOLNATION","Song:":"Sail","Album:":"Megalithic Symphony Deluxe"}
+----------------
+{"Artist:":"AWOLNATION","Song:":"Sail","Album:":"Megalithic Symphony Deluxe"}
+----------------------------------
+{"Artist:":"Lil Wayne","Song:":"Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)","Album:":"Suicide Squad: The Album"}
+----------------------------------
+{"Artist:":"Lil Wayne","Song:":"Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)","Album:":"Suicide Squad: The Album"}
+----------------------------------
+{"Artist:":"Lil Wayne","Song:":"Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)","Album:":"Suicide Squad: The Album"}
+----------------------------------
+{"Artist:":"Lil Wayne","Song:":"Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)","Album:":"Suicide Squad: The Album"}
+----------------------------------
+{"Title:":"Lady Scarface","IMDB Rating:":"5.8","Actors:":"Dennis O'Keefe, Judith Anderson, Frances E. Neal, Mildred Coles","Plot:":"Lieutenant Bill Mason pursues a Chicago gang to New York unaware that its scar-cheeked leader Slade is a woman.","Country of Production:":"USA","Language:":"English","Rotten Tomatoes Rating:":"N/A"}
+----------------------------------
+{"Title:":"Lady Scarface","Release Date:":"undefined\n","IMDB Rating:":"5.8","Actors:":"Dennis O'Keefe, Judith Anderson, Frances E. Neal, Mildred Coles","Plot:":"Lieutenant Bill Mason pursues a Chicago gang to New York unaware that its scar-cheeked leader Slade is a woman.","Country of Production:":"USA","Language:":"English","Rotten Tomatoes Rating:":"N/A"}
+----------------------------------
+NaNMy Tweets: [object Object]NaNMy Tweets: [object Object]my-tweetsMy Tweets: 2nd API Check
+----------------------------------
+my-tweetsMy Tweets: twitter api call works
+----------------------------------
+my-tweetsMy Tweets: 2nd API Check
+----------------------------------
+my-tweetsMy Tweets: twitter api call works
+----------------------------------
+My Tweets: 2nd API Check
+----------------------------------
+My Tweets: twitter api call works
+----------------------------------
+My Tweets: 2nd API Check
+----------------------------------
+My Tweets: twitter api call works
+----------------------------------
+My Tweets: 2nd API Check
+----------------------------------
+My Tweets: twitter api call works
+----------------------------------
+My Tweets: 2nd API Check
+----------------------------------
+My Tweets: twitter api call works
+----------------------------------
+{"Artist: ":"AWOLNATION","Song: ":"Sail","Album: ":"Megalithic Symphony Deluxe"}
+----------------------------------
+{"Artist: ":"Lil Wayne","Song: ":"Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)","Album: ":"Suicide Squad: The Album"}
+----------------------------------
+{"Artist: ":"Lil Wayne\n","Song: ":"Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)","Album: ":"Suicide Squad: The Album"}
+----------------------------------
+{"Artist: ":"Lil Wayne\n","Song: ":"Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)","Album: ":"Suicide Squad: The Album"}
+----------------------------------
+{"Artist: ":"Lil Wayne\n","Song: ":"Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)","Album: ":"Suicide Squad: The Album"}
+----------------------------------
