@@ -54,3 +54,26 @@ My Tweets: twitter api call works
 ----------------------------------
 {"Artist: ":"Lil Wayne\n","Song: ":"Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)","Album: ":"Suicide Squad: The Album"}
 ----------------------------------
+{
+  "Title:": "A Cinderella Story",
+  "IMDB Rating:": "5.9",
+  "Actors:": "Hilary Duff, Jennifer Coolidge, Chad Michael Murray, Dan Byrd",
+  "Plot:": "Routinely exploited by her wicked stepmother, the downtrodden Sam Montgomery is excited about the prospect of meeting her Internet beau at the school's Halloween dance.",
+  "Country of Production:": "USA, Canada",
+  "Language:": "English, German, Czech",
+  "Rotten Tomatoes Rating:": "11"
+}
+----------------------------------
+{
+  "Title:": "A Cinderella Story",
+  "IMDB Rating:": "5.9",
+  "Actors:": "Hilary Duff, Jennifer Coolidge, Chad Michael Murray, Dan Byrd",
+  "Plot:": "Routinely exploited by her wicked stepmother, the downtrodden Sam Montgomery is excited about the prospect of meeting her Internet beau at the school's Halloween dance.",
+  "Country of Production:": "USA, Canada",
+  "Language:": "English, German, Czech",
+  "Rotten Tomatoes Rating:": "11"
+}{
+  "Artist: ": "AWOLNATION",
+  "Song: ": "Sail",
+  "Album: ": "Megalithic Symphony Deluxe"
+}

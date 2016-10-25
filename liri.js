@@ -51,7 +51,7 @@ function twitSeearch(){
 			//for (var i = 0; i < 20; i++){
 
 				//push tweets to log.txt
-				fs.appendFile('log.txt', 'My Tweets: ' + tweets[i].text + '\n----------------------------------\n');
+				fs.appendFile('log.txt', 'My Tweets: ' + tweets[i].text, null, 2);
 				console.log('---------------------Start------------------------');
 				console.log('taylor_rayee_' + tweets[i].text);
 				console.log('-----------------------End----------------------')
@@ -80,13 +80,13 @@ function spotSearch(song){
 				//created object of track info for log.txt
 				var info = data.tracks.items[0];
 				spotData = {
-					'Artist: ' : info.artists[0].name + ('\n'),
+					'Artist: ' : info.artists[0].name,
 					'Song: '   : info.name,
 					'Album: '  : info.album.name,
 					'Preview: ': info.preview_url.spotify
 				};
 				//pushes spotData into log.txt
-				fs.appendFile('log.txt',JSON.stringify(spotData)+'\n----------------------------------\n');
+				fs.appendFile('log.txt',JSON.stringify(spotData, null, 2));
 				
 				console.log('---------------------Start------------------------');
 				console.log('Artist: '	,info.artists[0].name +'\n');
@@ -126,7 +126,7 @@ function imdbSearch(){
 					'Rotten Tomatoes URL:'	  : info.tomatoeURL 
 				};
 				//pushes imdbData into log.txt
-				fs.appendFile('log.txt',JSON.stringify(imdbData)+'\n----------------------------------\n');
+				fs.appendFile('log.txt',JSON.stringify(imdbData, null, 2));
 
 				console.log('---------------------Start------------------------');
 				console.log('Title: ' 				  + info.Title		+'\n');
